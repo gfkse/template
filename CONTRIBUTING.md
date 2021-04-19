@@ -28,10 +28,10 @@ Otherwise open an [issue](../../issues/new) and write up your idea.
 1. Check if an issue exists for your work. If not, create an [issue](../../issues/new).
 1. Fork the repository.
 1. Create a branch. If you choose to follow our convention, use a name like 'bug/27_issue_title' where 27 is the bug or feature ID and issue_title is a short version of its title.
-1. Open a new pull request on our project and outline what you will be contributing.
+1. Open a new *draft* pull request on our project and outline what you will be contributing.
 1. Write good [commit messages](#commit-messages).
 1. Project maintainers might comment on your work as you progress.
-1. When you are done, ping the maintainers for a review.
+1. When you are done, mark your pull request *ready for review*.
 
 ### Commit Messages
 Your commit messages ideally can answer two questions: what changed and why. 
